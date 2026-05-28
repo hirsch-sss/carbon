@@ -5411,6 +5411,9 @@ msgstr "CzÃƒâ€žÃ¢â€žÂ¢Ãƒâ€¦Ã¢â‚¬Âºci"
 msgid "Pass"
 msgstr "ZatwierdÃƒâ€¦Ã‚Âº"
 
+msgid "Password"
+msgstr ""
+
 msgid "Path"
 msgstr "Ãƒâ€¦Ã…Â¡cieÃƒâ€¦Ã‚Â¼ka"
 
@@ -6909,14 +6912,23 @@ msgstr "WyÃƒâ€¦Ã¢â‚¬Âºwietlany jako delikatne tÃƒâ€¦Ã¢â�
 msgid "Shown to the user when this rule fails."
 msgstr "WyÃƒâ€¦Ã¢â‚¬Âºwietlane uÃƒâ€¦Ã‚Â¼ytkownikowi, gdy ta reguÃƒâ€¦Ã¢â‚¬Å¡a siÃƒâ€žÃ¢â€žÂ¢ nie powiedzie."
 
+msgid "Sign in"
+msgstr ""
+
 msgid "Sign in with Email"
 msgstr "Zaloguj siÃƒâ€žÃ¢â€žÂ¢ za pomocÃƒâ€žÃ¢â‚¬Â¦ poczty e-mail"
 
 msgid "Sign in with Google"
 msgstr "Zaloguj siÃƒâ€žÃ¢â€žÂ¢ za pomocÃƒâ€žÃ¢â‚¬Â¦ Google"
 
+msgid "Sign in with magic link instead"
+msgstr ""
+
 msgid "Sign in with Outlook"
 msgstr "Zaloguj siÃƒâ€žÃ¢â€žÂ¢ za pomocÃƒâ€žÃ¢â‚¬Â¦ Outlook"
+
+msgid "Sign in with password instead"
+msgstr ""
 
 msgid "Sign Out"
 msgstr "Wyloguj sie"
